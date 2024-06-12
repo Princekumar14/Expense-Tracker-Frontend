@@ -5,7 +5,7 @@ import { InnerLayout } from '../../style/Layouts';
 const Dashboard = () => {
     return (
         <DashboardStyled>
-            <InnerLayout>
+            <InnerLayout> 
                 
             </InnerLayout>
         </DashboardStyled>
